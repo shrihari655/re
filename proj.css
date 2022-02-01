@@ -1,0 +1,65 @@
+.navbar{
+	background-color: whitesmoke !important;
+	font-family:'Merienda', cursive;
+}
+
+.navbar-brand{
+	font-family:'Merienda', cursive;
+	font-size: 28px;
+}
+
+.navbar .navbar-nav li a{
+	font-family:'Merienda', cursive;
+	font-size:18px;
+	color:#2490ce !important;
+	background-color: whitesmoke !important;
+	margin:0;
+}
+
+.navbar .navbar-nav li a:hover{
+	color:red !important;
+	background-color: white !important;
+	border-radius: 6px;
+	opacity: 0.6;
+	font-family:'Merienda', cursive;
+}
+
+body{
+	font-family:'Merienda', cursive;
+}
+
+body h1{
+	color: red;
+	font-weight: 500;
+}
+
+#pr{
+	font-family: 'Merienda', cursive;
+}
+
+.card{
+	display: inline-block;
+	margin:7px;
+}
+
+#b{
+	background-color: #e94646;
+	outline: none;
+	border:none;
+}
+
+#sk{
+	background-color:#44e283;
+	color: white;
+	border-radius: 3px;
+	padding: 2px;
+}
+
+.foot{
+	color: black;
+	font-weight: 600;
+}
+
+#spi{
+	color:#0b69b3;
+}

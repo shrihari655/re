@@ -1,0 +1,165 @@
+#na{
+	font-family: 'Merienda', cursive;
+	font-weight: 500;
+}
+
+body{
+	font-family: 'Merienda', cursive;
+}
+.navbar{
+	background-color: white !important;
+	
+}
+
+.navbar-brand{
+	font-family: 'Merienda', cursive;
+	font-size: 28px;
+}
+
+.navbar .navbar-nav li a{
+	font-family: 'Merienda', cursive;
+	font-size:18px;
+	color:#2490ce !important;
+	background-color: white !important;
+}
+
+.navbar .navbar-nav li a:hover{
+	color:red !important;
+	background-color: whitesmoke !important;
+	border-radius: 6px;
+	opacity: 0.6;
+	font-family: 'Merienda', cursive;
+}
+
+#f{
+	font-family: 'Merienda', cursive;
+}
+
+#s{
+	background-image: url(as.gif);
+	background-size:cover;
+	font-family: 'Merienda', cursive;
+	height: 430px;
+}
+
+#asr{
+	color: white;
+}
+
+#asr1{
+	color: white;
+	border:2px solid white;
+	font-weight: 500;
+}
+
+.details li {
+      list-style: none;
+    }
+li {
+     margin-bottom:10px;
+     text-align: left;
+     margin-left:20px;
+        
+    }
+
+#abt{
+	background-color: white !important;
+}
+
+#v{
+	
+	border:1px solid grey;
+	padding: 3px;
+}
+
+
+#but{
+	border:1px solid black;
+
+}
+
+#pro{
+	display: inline-block;
+	border-radius: 200px;
+	padding: 3px;
+	border:1px solid grey;
+
+}
+
+#info{
+	display: inline-block;
+	float:center;
+}
+
+#res{
+	font-family: 'Merienda', cursive;
+	text-align: justify;
+	text-justify: auto|inter-word|inter-character|none|initial|inherit;
+}
+
+#resu{
+	background-color: #2c0055;
+	color: white;
+	outline: none;
+	border:none;
+	padding: 5px;
+	border-radius: 3px;
+	text-align: center;
+}
+
+#skill{
+	font-family: 'Merienda', cursive;
+	margin-left: 30px;
+}
+
+
+#file{
+	width:70%;
+	outline: none;
+}
+
+#exp{
+	font-family: 'Merienda', cursive;
+}
+
+#exp h2{
+	color: red;
+	font-weight: bold;
+	text-align: center;
+	text-decoration-color: blue;
+
+}
+
+#ask{
+	background-color:#44e283;
+	color: white;
+	border-radius: 10px;
+	padding: 2px;
+}
+
+#digi{
+	background-color:#44e283;
+	color: white;
+	border-radius: 10px;
+	padding: 1px;
+}
+
+#cert{
+	background-color:#df4b4b;
+	color: white;
+	border:none;
+	font-size:17px;
+	border-radius: 5px;
+	padding:3px;
+	outline: none;
+}
+
+.foot{
+	color: black;
+	font-weight: 600;
+}
+
+#spi{
+	color:#0b69b3;
+}
+

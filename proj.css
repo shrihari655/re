@@ -1,15 +1,15 @@
 .navbar{
 	background-color: whitesmoke !important;
-	font-family:'Merienda', cursive;
+	font-family: 'Poppins', sans-serif;
 }
 
 .navbar-brand{
-	font-family:'Merienda', cursive;
+	font-family: 'Poppins', sans-serif;
 	font-size: 28px;
 }
 
 .navbar .navbar-nav li a{
-	font-family:'Merienda', cursive;
+	font-family: 'Poppins', sans-serif;
 	font-size:18px;
 	color:#2490ce !important;
 	background-color: whitesmoke !important;
@@ -21,11 +21,11 @@
 	background-color: white !important;
 	border-radius: 6px;
 	opacity: 0.6;
-	font-family:'Merienda', cursive;
+	font-family: 'Poppins', sans-serif;
 }
 
 body{
-	font-family:'Merienda', cursive;
+	font-family: 'Poppins', sans-serif;
 }
 
 body h1{
@@ -34,7 +34,7 @@ body h1{
 }
 
 #pr{
-	font-family: 'Merienda', cursive;
+	font-family: 'Poppins', sans-serif;
 }
 
 .card{
